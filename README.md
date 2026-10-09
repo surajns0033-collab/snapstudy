@@ -10,6 +10,7 @@ SnapStudy turns a **single photo** of study material — handwritten notes, a le
 
 ## Demo (60 seconds)
 
+https://snapstudy-sigma.vercel.app/
 1. **Snap** — take a photo of your notes (or upload an image).
 2. **Generate** — one tap. Gemma 4 reads the actual image and returns a study kit.
 3. **Study** — read the summary, flip through flashcards, and take the quiz.
